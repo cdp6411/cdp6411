@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Chirag
 
-🚀 **Mobile Application Developer with 4.5+ years of experience**
+🚀 **Mobile Application Developer with 5+ years of experience**
 
 📱 I specialise in **Flutter development**, building scalable, high-performance, and user-friendly cross-platform mobile applications.
 
