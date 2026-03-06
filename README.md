@@ -62,16 +62,16 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cdp6411&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdp6411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/cdp6411/count.svg?"  />
-</div>
+</div> -->
 
 ###
 
@@ -84,13 +84,21 @@
    <a href="https://myportfolio-1f1ef.web.app/" target="_blank">
     <img src="https://camo.githubusercontent.com/24309e549593afd35b69d0d4178071abdafd97dff14ce4d093dbda47585abc29/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f7765622d6a6f68616e6e65736d696c6b652e61707073706f742e636f6d2f6f2f6f74686572253246736f6369616c253246776562736974652e706e673f616c743d6d65646961" width="40" height="40" alt="Website" />
   </a>
+
+  <a href="https://api.whatsapp.com/send?phone=8140847223" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
+  </a>
   
   <a href="https://www.linkedin.com/in/chirag-parmar-b48725182" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  
-  <a href="https://api.whatsapp.com/send?phone=8140847223" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
+
+  <a href="https://www.upwork.com/freelancers/~01db1c04973d123ce1?mp_source=share" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/upwork/default.svg" width="52" height="40" alt="Upwork" />
+  </a>
+
+  <a href="https://www.fiverr.com/chiragparmar29/do-custom-flutter-mobile-app-building-hybrid-mobile-app-flutter-android-ios" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/upwork/default.svg" width="52" height="40" alt="Fiver" />
   </a>
   
   <a href="https://stackoverflow.com/users/15691105/chirag-parmar" target="_blank">
