@@ -24,7 +24,6 @@
 
 ❤️ Passionate about building great apps, learning new technologies, and writing clean, maintainable code.
 
-
 ###
 
 <h2 align="left">I code with</h2>
@@ -105,3 +104,5 @@
 </div>
 
 ###
+
+![](https://komarev.com/ghpvc/?username=cdp6411&color=blue)
