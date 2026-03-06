@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Stack
 
-* **Mobile:** Flutter, Kotlin
+* **Mobile:** Flutter, Kotlin, Java, Dart
 * **Backend:** Node.js, Express
 * **Testing:** Selenium, Appium, Cypress
 * **Other:** REST APIs, Mobile App Architecture
