@@ -1,16 +1,29 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## 👋 Hi there, I'm Chirag
 
-###
+🚀 **Mobile Application Developer with 4.5+ years of experience**
 
-<p align="left">I am Senior Mobile App Engineer (Flutter)</p>
+📱 I specialise in **Flutter development**, building scalable, high-performance, and user-friendly cross-platform mobile applications.
 
-###
+💡 I also have **intermediate experience in backend development using Node.js and Express**, which helps me work toward **Full Stack Mobile Application Development**.
 
-<h2 align="left">About me</h2>
+🧪 Currently exploring **Automation Testing** to improve application quality using:
 
-###
+* Java
+* Selenium
+* Appium
+* Cypress
 
-<p align="left">🔭 I specialize in Flutter development and am currently learning Node.js and Express for backend development. Additionally, I am exploring automation testing with Java, Selenium, Appium, and Cypress.<br>🌱 Interested in Full Stack Mobile Application development.<br>🧑 I'm currently working with Flutter, Kotlin & more ❤️</p>
+### 🛠 Tech Stack
+
+* **Mobile:** Flutter, Kotlin
+* **Backend:** Node.js, Express
+* **Testing:** Selenium, Appium, Cypress
+* **Other:** REST APIs, Mobile App Architecture
+
+🌱 Currently learning and improving my skills in **Full Stack Mobile Development & Test Automation**
+
+❤️ Passionate about building great apps, learning new technologies, and writing clean, maintainable code.
+
 
 ###
 
@@ -59,21 +72,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdp6411&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdp6411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> -->
-
-###
-
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/cdp6411/count.svg?"  />
-</div> -->
-
-###
 
 <h4 align="left">Connect With Me</h4>
 
